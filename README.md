@@ -34,11 +34,6 @@ Python 3
 
 Command Line / Terminal
 
-## 📂 Project Structure
-basic-menu-project-on-python
-│
-├── basic_menu_cart.py   # Main Python program
-└── README.md            # Project documentation
 ## How to Run the Project
 
 Install Python 3 on your system.
